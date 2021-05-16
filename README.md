@@ -17,6 +17,7 @@
 * 納得できるところまでできたところでプルリクを出してください。
 
 [![MSBuild](https://github.com/tpu-game-2021/tick-tack-toe/actions/workflows/msbuild.yml/badge.svg)](https://github.com/tpu-game-2021/tick-tack-toe/actions/workflows/msbuild.yml)
+
 （↑のソースコードの「tpu-game-2021」を自分のアカウント名に差し替えてください（２か所））
 
 # 〆切
